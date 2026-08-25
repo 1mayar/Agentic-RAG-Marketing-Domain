@@ -73,11 +73,6 @@ marketing-agent/
 │
 └── .env
 ```
-
-The `chroma_db_marketing` directory is generated automatically after the first run and should not be committed.
-
-The `.env` file contains the OpenRouter API key and should never be committed or submitted.
-
 ---
 
 ## Installation
